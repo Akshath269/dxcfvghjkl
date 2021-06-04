@@ -1,0 +1,17 @@
+.header{
+    background-color: #ffbf00;
+
+
+}
+.grid{
+    display:flex;
+    justify-content:space-evenly;
+    flex-wrap: wrap;
+
+}
+body{
+background-color: blueviolet;
+}
+p,h2{
+    text-align: center;
+}
